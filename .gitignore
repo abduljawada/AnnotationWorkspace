@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/
+exports/
+generated_clips/
+source_videos_mp4/
