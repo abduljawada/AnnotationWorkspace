@@ -1,6 +1,6 @@
 # Traffic Clip Annotation Workspace
 
-![screenshot.png]
+![A screenshot of the workspace](screenshot.png)
 
 This is a public, code-only copy of the traffic clip annotation workspace. It intentionally excludes dataset media, source annotations, runtime state, generated clips, exports, logs, and backups.
 
