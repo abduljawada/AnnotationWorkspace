@@ -26,8 +26,6 @@ The workspace supports a review workflow where annotators can inspect clips, cor
 ## Included
 
 - `annotation_workspace/`: the local annotation web app
-- `annotation_workspace/annotation_questions.json`: question labels used by exports
-- Prompt templates and description QA helpers
 
 ## Not Included
 
